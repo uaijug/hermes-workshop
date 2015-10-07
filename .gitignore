@@ -6,5 +6,4 @@ node_modules/
 .sass-cache
 css/reveal.min.css
 js/reveal.min.js
-/bower_components/headjs
-/bower_components/jquery
+
