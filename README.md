@@ -1,9 +1,10 @@
-hermes-workshop
-===============
-
-Workshop que demonstra os detalhes do sistema Hermes
+PRODUÇÃO DE APLICAÇÕES JAVA PARA WEB
+====================================
 
  
 
-Para executar essa apresentação, veja
-[https://github.com/hakimel/reveal.js\#full-setup](<https://github.com/hakimel/reveal.js#full-setup>)
+Neste workshop, veremos como se faz aplicações java pra web e mobile.
+
+ 
+
+Para ver essa apresentação, acesse http://uaijug.github.io/hermes-workshop/
