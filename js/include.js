@@ -4,4 +4,4 @@ $(function(){
       var file = 'slides/' + $(this).data('include');
       $(this).load(file);
     });
-  });
+});
